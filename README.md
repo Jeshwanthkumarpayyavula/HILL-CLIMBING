@@ -98,11 +98,13 @@ Score: 551  Solution :  8RzF:oGK]%;CPqRRWe!zGqk<br>
 ....................................................<br>
 ..................................................<br>
 ................................................<br>
-Iteration 1000 | Score: 12 | Solution: Asuigjbiam Kntemlifemde
-Iteration 2000 | Score: 3 | Solution: Astificial Intellifende
-Iteration 3000 | Score: 2 | Solution: Astificial Intelligende
-Iteration 4000 | Score: 1 | Solution: Astificial Intelligence
-Iteration 4182 | Score: 0 | Solution: Artificial Intelligence
+```
+Score: 12 | Solution: Asuigjbiam Kntemlifemde<br>
+Score: 3 | Solution: Astificial Intellifende<br>
+Score: 2 | Solution: Astificial Intelligende<br>
+Score: 1 | Solution: Astificial Intelligence<br>
+Score: 0 | Solution: Artificial Intelligence<br>
+```
 
 ## OUTPUT :
 
